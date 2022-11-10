@@ -7,7 +7,8 @@ export const Box = styled('div', {
   backgroundColor: '$gray800',
   border: '1px solid $gray600',
 })
-
 export interface BoxProps extends ComponentProps<typeof Box> {
   as?: ElementType
 }
+
+Box.displayName = 'Box'
