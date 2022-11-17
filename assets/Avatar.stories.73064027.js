@@ -1,0 +1,2 @@
+import{A as t}from"./index.766fcd9a.js";import"./index.de91a7af.js";import"./iframe.58f49223.js";import"./index.fdb811d5.js";import"./jsx-runtime.6cf3eb36.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guialcantara.png",alt:"Guilherme Alc\xE2ntara"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.73064027.js.map

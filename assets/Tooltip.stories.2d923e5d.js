@@ -1,0 +1,2 @@
+import{e as r,a as i,B as e}from"./index.766fcd9a.js";import{j as o}from"./jsx-runtime.6cf3eb36.js";import"./index.de91a7af.js";import"./iframe.58f49223.js";import"./index.fdb811d5.js";const l={title:"Form/Tooltip",component:r,args:{children:o(i,{size:"md",variant:"primary",children:"Button com Tooltip"}),text:"conte\xFAdo da tooltip"},decorators:[t=>o(e,{children:t()})],argTypes:{children:{control:{type:null}}}},c={args:{}},d=["Primary"];export{c as Primary,d as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories.2d923e5d.js.map
