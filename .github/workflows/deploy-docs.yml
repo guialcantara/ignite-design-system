@@ -21,8 +21,8 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: hoUDZbxgSIbhjx9PKBYkaFPn
-          TURBO_TEAM: guialcanta-ui
+          TURBO_TOKEN: N5P9e9NUYCVpXZFVwSVyKtr0
+          TURBO_TEAM: liaxperts
 
       - name: Deploy storybook
         working-directory: ./packages/docs
